@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Furion1995
 - 👀 I’m interested in IT technology and some sports.
-- 🌱 I’m currently learning Python, Dana Analyst.
+- 🌱 I’m currently learning Python, Dana Analyst, Web and IA.
 - 💞️ I’m looking to collaborate on Projects on python and so on.
 - 📫 How to reach me markantoniete@gmail.com
 
